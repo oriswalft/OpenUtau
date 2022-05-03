@@ -102,13 +102,13 @@
   <system:String x:Key="menu.tools.singers">Voicebank</system:String>
 
   <!--<system:String x:Key="notedefaults.lyric">Parole</system:String>-->
-  <!--<system:String x:Key="notedefaults.lyric.defaultlyric">Parole par défaaut</system:String>-->
+  <system:String x:Key="notedefaults.lyric.defaultlyric">Parole par défaut</system:String>
   <!--<system:String x:Key="notedefaults.portamento">Portamento</system:String>-->
-  <!--<system:String x:Key="notedefaults.portamento.length">Longueur </system:String>-->
+  <system:String x:Key="notedefaults.portamento.length">Longueur</system:String>
   <!--<system:String x:Key="notedefaults.portamento.start">Départ</system:String>-->
   <!--<system:String x:Key="notedefaults.preset">Préréglage</system:String>-->
-  <!--<system:String x:Key="notedefaults.preset.namenew">Nouveau nom du préréglage</system:String>-->
-  <!--<system:String x:Key="notedefaults.preset.remove">Effacer</system:String>-->
+  <system:String x:Key="notedefaults.preset.namenew">Nouveau nom du préréglage</system:String>
+  <system:String x:Key="notedefaults.preset.remove">Effacer</system:String>
   <!--<system:String x:Key="notedefaults.preset.remove.tooltip">Effacer le dernier préréglage.</system:String>-->
   <!--<system:String x:Key="notedefaults.preset.save">Sauvegarder</system:String>-->
   <!--<system:String x:Key="notedefaults.preset.save.tooltip">Enregistrer les paramètres actuels en préréglage.</system:String>-->
